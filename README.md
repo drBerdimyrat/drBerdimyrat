@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drBerdimyrat
-- 👀 I’m interested in programming and IT
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in programming, IT, medicine.
+- 🌱 I’m currently learning Python and 4-th year medical university student.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me berdimyratsahatow1@gmail.com
 
